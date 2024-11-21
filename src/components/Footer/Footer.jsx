@@ -1,8 +1,7 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import {
-  AiFillGithub,
-  AiOutlineTwitter
+  AiFillGithub
 } from "react-icons/ai";
 import { FaLinkedinIn, FaFacebook } from "react-icons/fa";
 import { BsTwitterX } from "react-icons/bs";
