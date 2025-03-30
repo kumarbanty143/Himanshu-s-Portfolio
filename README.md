@@ -2,7 +2,7 @@
 
 Welcome to my personal portfolio! 👋 I'm **Himanshu Kumar Patra**, a passionate and dedicated developer, constantly exploring new technologies and building creative solutions.
 
-## 🚀 **About Me**
+## 🚀 **About Me**--
 
 - 🎓 Pursuing MCA at Odisha University of Technology and Research (CGPA: 8.55).  
 - 💻 Proficient in modern web technologies and frameworks.  
