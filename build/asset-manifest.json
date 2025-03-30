@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.13293e4c.css",
+    "main.js": "/static/js/main.cb2c472a.js",
+    "static/media/Emosense.png": "/static/media/Emosense.f1c712ca018f3ba4a240.png",
+    "static/media/Shopycart.png": "/static/media/Shopycart.55f30d74c1dedff5b303.png",
+    "static/media/ReadEase.png": "/static/media/ReadEase.3a4f0517dc5bd82039c1.png",
+    "static/media/HimanshuKumarPatraOR.pdf": "/static/media/HimanshuKumarPatraOR.c8ee007504ae1b711fc2.pdf",
+    "static/media/home-main.svg": "/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/ExpressTalk.png": "/static/media/ExpressTalk.7aa9f934a6f3b99c764d.png",
+    "static/media/the_banty_csk.png": "/static/media/the_banty_csk.c39bff9d055c081f9bf8.png",
+    "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/index.html",
+    "main.13293e4c.css.map": "/static/css/main.13293e4c.css.map",
+    "main.cb2c472a.js.map": "/static/js/main.cb2c472a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.13293e4c.css",
+    "static/js/main.cb2c472a.js"
+  ]
+}
